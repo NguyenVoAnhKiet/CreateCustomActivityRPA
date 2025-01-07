@@ -1,0 +1,11 @@
+D:\Workspace\c#\OpenRPA.Activities\OpenRPA.Activities\bin\Debug\OpenRPA.Activities.dll
+D:\Workspace\c#\OpenRPA.Activities\OpenRPA.Activities\bin\Debug\OpenRPA.Activities.pdb
+D:\Workspace\c#\OpenRPA.Activities\OpenRPA.Activities\obj\Debug\OpenRPA.Activities.csproj.AssemblyReference.cache
+D:\Workspace\c#\OpenRPA.Activities\OpenRPA.Activities\obj\Debug\OpenRPA.Activities.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\OpenRPA.Activities\OpenRPA.Activities\obj\Debug\OpenRPA.Activities.dll
+D:\Workspace\c#\OpenRPA.Activities\OpenRPA.Activities\obj\Debug\OpenRPA.Activities.pdb
+D:\Workspace\c#\OpenRPA.Activities\OpenRPA.Activities\obj\Debug\AppendCSVDesigner.g.cs
+D:\Workspace\c#\OpenRPA.Activities\OpenRPA.Activities\obj\Debug\OpenRPA.Activities_MarkupCompile.cache
+D:\Workspace\c#\OpenRPA.Activities\OpenRPA.Activities\obj\Debug\OpenRPA.Activities_MarkupCompile.lref
+D:\Workspace\c#\OpenRPA.Activities\OpenRPA.Activities\obj\Debug\AppendCSVDesigner.baml
+D:\Workspace\c#\OpenRPA.Activities\OpenRPA.Activities\obj\Debug\OpenRPA.Activities.g.resources

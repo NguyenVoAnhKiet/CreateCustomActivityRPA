@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\c#\\OpenRPA.Activities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C163F830-1A2D-43A5-A2E8-1995CE413A9F}|OpenRPA.Activities\\OpenRPA.Activities.csproj|d:\\workspace\\c#\\openrpa.activities\\openrpa.activities\\appendcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C163F830-1A2D-43A5-A2E8-1995CE413A9F}|OpenRPA.Activities\\OpenRPA.Activities.csproj|solutionrelative:openrpa.activities\\appendcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C163F830-1A2D-43A5-A2E8-1995CE413A9F}|OpenRPA.Activities\\OpenRPA.Activities.csproj|D:\\Workspace\\c#\\OpenRPA.Activities\\openrpa.activities\\appendcsvdesigner.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C163F830-1A2D-43A5-A2E8-1995CE413A9F}|OpenRPA.Activities\\OpenRPA.Activities.csproj|solutionrelative:openrpa.activities\\appendcsvdesigner.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C163F830-1A2D-43A5-A2E8-1995CE413A9F}|OpenRPA.Activities\\OpenRPA.Activities.csproj|D:\\Workspace\\c#\\OpenRPA.Activities\\openrpa.activities\\appendcsvdesigner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C163F830-1A2D-43A5-A2E8-1995CE413A9F}|OpenRPA.Activities\\OpenRPA.Activities.csproj|solutionrelative:openrpa.activities\\appendcsvdesigner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C163F830-1A2D-43A5-A2E8-1995CE413A9F}|OpenRPA.Activities\\OpenRPA.Activities.csproj|D:\\Workspace\\c#\\OpenRPA.Activities\\openrpa.activities\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C163F830-1A2D-43A5-A2E8-1995CE413A9F}|OpenRPA.Activities\\OpenRPA.Activities.csproj|solutionrelative:openrpa.activities\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppendCSV.cs",
+              "DocumentMoniker": "D:\\Workspace\\c#\\OpenRPA.Activities\\OpenRPA.Activities\\AppendCSV.cs",
+              "RelativeDocumentMoniker": "OpenRPA.Activities\\AppendCSV.cs",
+              "ToolTip": "D:\\Workspace\\c#\\OpenRPA.Activities\\OpenRPA.Activities\\AppendCSV.cs",
+              "RelativeToolTip": "OpenRPA.Activities\\AppendCSV.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAYwBEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:35:20.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Workspace\\c#\\OpenRPA.Activities\\OpenRPA.Activities\\packages.config",
+              "RelativeDocumentMoniker": "OpenRPA.Activities\\packages.config",
+              "ToolTip": "D:\\Workspace\\c#\\OpenRPA.Activities\\OpenRPA.Activities\\packages.config",
+              "RelativeToolTip": "OpenRPA.Activities\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-03T08:34:29.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppendCSVDesigner.xaml.cs",
+              "DocumentMoniker": "D:\\Workspace\\c#\\OpenRPA.Activities\\OpenRPA.Activities\\AppendCSVDesigner.xaml.cs",
+              "RelativeDocumentMoniker": "OpenRPA.Activities\\AppendCSVDesigner.xaml.cs",
+              "ToolTip": "D:\\Workspace\\c#\\OpenRPA.Activities\\OpenRPA.Activities\\AppendCSVDesigner.xaml.cs",
+              "RelativeToolTip": "OpenRPA.Activities\\AppendCSVDesigner.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:21:19.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppendCSVDesigner.xaml",
+              "DocumentMoniker": "D:\\Workspace\\c#\\OpenRPA.Activities\\OpenRPA.Activities\\AppendCSVDesigner.xaml",
+              "RelativeDocumentMoniker": "OpenRPA.Activities\\AppendCSVDesigner.xaml",
+              "ToolTip": "D:\\Workspace\\c#\\OpenRPA.Activities\\OpenRPA.Activities\\AppendCSVDesigner.xaml",
+              "RelativeToolTip": "OpenRPA.Activities\\AppendCSVDesigner.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T08:18:09.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

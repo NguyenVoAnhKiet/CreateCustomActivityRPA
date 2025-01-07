@@ -1,0 +1,14 @@
+{
+  "runtimeOptions": {
+    "tfm": "net6.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "6.0.0"
+    },
+    "configProperties": {
+      "System.GC.Server": false,
+      "System.GC.HeapHardLimit": 10485760,
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false
+    }
+  }
+}
